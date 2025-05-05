@@ -1,3 +1,7 @@
+// Design and develop an algorithm to find a duplicate number in an array using HashSet in Java.
+//  int[] arr = {1, 3, 4, 2,4};
+// Output : Duplicate number: 4
+
 import java.util.HashSet;
 
 public class prac3 {

@@ -1,3 +1,9 @@
+// Design and develop an algorithm to implement Linear Search in Java to find a given element in an
+// array and display its position
+// Input : int[] arr = {3, 5, 7, 2, 8, 4, 10};
+//  int target = 8;
+// Output : Element 8 found at index: 4
+
 public class prac2 {
     public static void main(String[] args) {
         // Example array and target (hardcoded)

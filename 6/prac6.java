@@ -1,3 +1,9 @@
+// Design and develop an algorithm in Java to sort a HashMap by keys using TreeMap and retrieve the
+// value for a given key.
+// Input:
+// (3, "Cherry") (1, "Apple") (4, "Date") (2, "Banana")
+// Output: Date
+
 import java.util.*;
 import java.util.Map.Entry;
 

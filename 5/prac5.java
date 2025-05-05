@@ -1,3 +1,13 @@
+// Design and develop an algorithm in Java to sort a HashMap by keys using TreeMap and display the
+// sorted values.
+//  Input : (3, "Cherry") (1, "Apple") (4, "Date") (2, "Banana")
+//  Output:
+// 1 : Apple
+// 2 : Banana
+// 3 : Cherry
+// 4 : Date 
+
+
 import java.util.*;
 import java.util.Map.Entry;
 public class prac5 {

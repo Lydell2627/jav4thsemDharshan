@@ -1,3 +1,9 @@
+// Design and develop an algorithm in Java to move all zeros in an ArrayList to the end while
+// maintaining the order of non-zero elements
+// Input : ArrayList: [0, 3, 0, 5, 2, 0]
+// Output : Modified ArrayList: [3, 5, 2, 0, 0, 0] 
+
+
 import java.util.*;
 
 

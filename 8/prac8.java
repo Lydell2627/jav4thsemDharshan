@@ -1,3 +1,9 @@
+// Write a Java program to remove duplicate elements from an ArrayList .
+// Input : ArrayList: [4, 2, 4, 5, 2, 6, 7, 5]
+// output : Unique Elements: [4, 2, 5, 6, 7]
+
+
+
 import java.util.*;
 
 public class prac8 {

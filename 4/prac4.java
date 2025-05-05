@@ -1,3 +1,9 @@
+// Design and develop an algorithm in Java to find the maximum and minimum values in an array using
+// Bubble Sort.
+// Input : int[] arr = {64, 34, 25, 12, 22, 11, 90};
+// Output: Minimum value: 11
+//  Maximum value: 90
+
 public class prac4 {
     public static void main(String[] args) {
         // Random array for demonstration
